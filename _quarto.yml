@@ -1,0 +1,34 @@
+project:
+  type: book
+  # change output-dir to "docs" to publish to gh pages
+  output-dir: docs
+
+book:
+  title: "Basic Soil Science (SOIL 2125) Lecture Summaries - Spring 2024"
+  author: "Nic Jelinski, Megan Andersen, and Nora Pearson"
+  date: "22MAR2024"
+  cover-image: "soil-2125-03.png"
+  number: "1.0"
+  #navbar: 
+    #right: 
+      #- icon: cc-circle
+      #- href: https://creativecommons.org/licenses/by/4.0/
+      #- aria-label: Creative Commons
+  
+  chapters:
+    - index.qmd
+    - part: "Unit 2: Soil Processes"
+      chapters:
+      - lecture-2-8.qmd
+    # - references.qmd
+
+# bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
