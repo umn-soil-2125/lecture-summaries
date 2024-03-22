@@ -1,0 +1,75 @@
+The Development of Soil Formation Theory: Dokuchaev, Darwin, and Beyond
+
+Introduction
+The study of soil formation, or pedogenesis, has been shaped by the contributions of several key figures, including Vasily Dokuchaev, Charles Darwin, Eugene Hilgard, Curtis Marbut, and Hans Jenny. This synthesis examines the development of soil formation theory, with a particular focus on the perspectives of Dokuchaev and Darwin and the tensions between their approaches.
+
+Dokuchaev and the Russian School
+Vasily Dokuchaev, a Russian geologist and geographer, is widely regarded as the founder of modern soil science. In his seminal work, "The Russian Chernozem" (1883), Dokuchaev established that soils are the result of the complex interaction of climate, organisms (including vegetation and fauna), parent material, topography, and time. He emphasized the importance of studying soil profiles, which reveal the vertical distribution of soil properties, and introduced the concept of soil horizons (Glinka, 1914; Joffe, 1936; Krupenikov, 1992).
+
+Dokuchaev's students, notably Nikolai Sibirtsev and Konstantin Glinka, further developed his ideas and promoted the concept of soil zonality, which posits that soils are arranged in latitudinal belts corresponding to climate and vegetation zones (Joffe, 1936; Krupenikov, 1992). This concept, however, was later criticized for overemphasizing the role of climate and neglecting other factors (Mikhailooskaia, 1939).
+
+Darwin's Perspective on Soil Formation
+Charles Darwin, best known for his theory of evolution, also made significant contributions to the understanding of soil formation. In his final book, "The Formation of Vegetable Mould, Through the Action of Worms, With Observations on Their Habits" (1881), Darwin focused on the role of earthworms in soil formation and the burial of objects on the soil surface.
+
+Darwin's approach differed from Dokuchaev's in several key aspects. While Dokuchaev emphasized the broad environmental factors influencing soil formation, Darwin focused on the biological processes, particularly the activities of earthworms, in shaping soil properties. Darwin's work highlighted the importance of bioturbation, the mixing and sorting of soil particles by organisms, in the development of soil structure and the formation of distinct soil horizons (Johnson, 1993; Johnson et al., 2005).
+
+Tensions and Complementarity
+The perspectives of Dokuchaev and Darwin on soil formation, while different in their focus, are not necessarily contradictory. Dokuchaev's factorial approach provides a framework for understanding the broad environmental influences on soil development, while Darwin's emphasis on biological processes offers insights into the mechanisms by which these factors shape soil properties at a finer scale.
+
+However, the reception and integration of these perspectives have been uneven. Dokuchaev's ideas gained widespread acceptance and formed the basis for the development of soil science as a distinct discipline, particularly in Russia and later in the United States through the work of Curtis Marbut (Simonson, 1997; Helms et al., 2002). In contrast, Darwin's contributions to soil science were largely overlooked or marginalized, despite their potential to inform a more comprehensive understanding of soil formation (Johnson, 1993; Johnson et al., 2005).
+
+Hilgard, Marbut, and Jenny: Advancing Soil Formation Theory
+Eugene Hilgard, working independently in the United States, developed similar ideas to Dokuchaev about the factors influencing soil formation, with a particular emphasis on the role of climate (Amundson, 2006). Curtis Marbut, as head of the U.S. Soil Survey, played a crucial role in introducing Dokuchaev's ideas to American soil scientists and adopting a genetic approach to soil classification based on the Russian school's principles (Simonson, 1997; Helms et al., 2002).
+
+Hans Jenny, a Swiss-born soil scientist, made significant contributions to the quantitative understanding of soil formation. In his book "Factors of Soil Formation" (1941), Jenny formalized the relationship between soil properties and the soil-forming factors in the form of a mathematical equation, emphasizing the need to study soil properties as functions of the soil-forming factors (Jenny, 1941, 1946).
+
+Challenges, Limitations, and Future Directions
+Despite the significant advances in soil formation theory, several challenges and limitations have been identified. The assumption of independence among soil-forming factors has been questioned (Gerasimov, 1947; Stephens, 1947), and the difficulty of quantifying some factors, such as organisms and parent material, has been noted (Robinson, 1949; Crocker, 1952). The recognition of polygenetic soils has also challenged the application of Jenny's factorial approach (Nikiforoff, 1949; Bryan, 1946; Rode, 1947).
+
+To address these challenges and develop a more comprehensive understanding of soil formation, it is essential to integrate the perspectives of Dokuchaev, Darwin, and their successors. This integration should involve a greater emphasis on the historical and evolutionary aspects of soil development, the importance of considering soils as part of a broader ecosystem (Tansley, 1935; Nikiforoff, 1949; Rode, 1947), and the role of biological processes in shaping soil properties at various scales (Johnson, 1993; Johnson et al., 2005).
+
+Conclusion
+The development of soil formation theory has been shaped by the contributions of Dokuchaev, Darwin, and their successors. While Dokuchaev's factorial approach has been widely adopted and has formed the basis for modern soil science, Darwin's emphasis on biological processes has been largely overlooked. Integrating these perspectives, along with the quantitative approach of Jenny and the recognition of polygenetic soils, has the potential to advance our understanding of the complex processes and factors involved in pedogenesis and inform sustainable land management practices.
+
+References
+Amundson, R. 2006. Philosophical developments in pedology in the United States: Eugene Hilgard and Milton Whitney. In: Footprints in the Soil: People and Ideas in Soil History (ed. B.P. Warkentin), pp. 149-165. Elsevier, Amsterdam.
+
+Bryan, K. 1946. The geological approach to the study of soils. A.N.Z.A.A. Sci., Adelaide Meeting 1946, 25: 52-70.
+
+Crocker, R.L. 1952. Soil genesis and the pedogenic factors. The Quarterly Review of Biology, 27(2): 139-168.
+
+Darwin, C. 1881. The Formation of Vegetable Mould, Through the Action of Worms, With Observations on Their Habits. John Murray, London.
+
+Dokuchaev, V.V. 1883. The Russian Chernozem. Imperial Free Economic Society, St. Petersburg.
+
+Gerasimov, I.P. 1947. Soil science as one of the natural-historical sciences. Pochvovedenie, 193-196.
+
+Glinka, K.D. 1914. The Great Soil Groups of the World and Their Development. Edwards Bros., Ann Arbor.
+
+Helms, D., Effland, A.B.W., and Phillips, S.E. 2002. Founding the USDA's Division of Agricultural Soils: Charles Dabney, Milton Whitney, and the State Experiment Stations. In: Profiles in the History of the U.S. Soil Survey (ed. D. Helms, A.B.W. Effland, and P.J. Durana), pp. 1-16. Iowa State Press, Ames.
+
+Jenny, H. 1941. Factors of Soil Formation. McGraw-Hill, New York.
+
+Jenny, H. 1946. Arrangement of soil series and types according to functions of soil-forming factors. Soil Science, 61: 375-391.
+
+Joffe, J.S. 1936. Pedology. Rutgers University Press, New Brunswick.
+
+Johnson, D.L. 1993. Darwin the archaeologist: a lesson in unfulfilled language. Discov. Archaeol., 1: 6-7.
+
+Johnson, D.L., Domier, J.E.J., and Johnson, D.N. 2005. Reflections on the nature of soil and its biomantle. Ann. Assoc. Am. Geogr., 95: 11-31.
+
+Krupenikov, I.A. 1992. History of Soil Science: From Its Inception to the Present. Oxonian Press, New Delhi.
+
+Mikhailooskaia, O.N. 1939. Should we follow Dokuchaev? Pochvovedenie.
+
+Nikiforoff, C.C. 1949. Weathering and soil evolution. Soil Science, 67: 219-230.
+
+Robinson, G.W. 1949. Soils: Their Origin, Constitution and Classification, 2nd ed. Thos. Murby, London.
+
+Rode, A.A. 1947. The process of soil formation and the evolution of soils. Pochvovedenie, 400-401.
+
+Simonson, R.W. 1997. Early teaching in USA of Dokuchaiev factors of soil formation. Soil Science Society of America Journal, 61: 11-16.
+
+Stephens, C.G. 1947. Functional synthesis in pedogenesis. Trans. roy. Soc. S. Austral., 71: 168-181.
+
+Tansley, A.G. 1935. The use and abuse of vegetational concepts and terms. Ecology, 16: 284-307.

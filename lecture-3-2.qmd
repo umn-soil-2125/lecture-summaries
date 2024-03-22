@@ -1,0 +1,56 @@
+# Lecture 3-2: Soil Parent Materials: Formation, Distribution, and Implications for Minnesota Landscapes {.unnumbered}
+
+## Introduction
+Soil parent materials play a crucial role in determining soil properties and are one of the five major factors of soil formation, along with climate, biota, relief, and time. This lecture focuses on the various types of soil parent materials found in Minnesota, their formation processes, and their impact on soil characteristics and landscapes.
+
+## Residual Parent Materials
+Residual parent materials, also known as residuum, are formed from the weathering of local bedrock in place. The properties of residuum depend on the characteristics of the source rock. For example, sandstone residuum tends to be sandy, while shale residuum is typically fine-textured. In Minnesota, residual parent materials are less common due to the extensive glacial history of the state.
+
+## Transported Parent Materials
+Most of Minnesota's soil parent materials have been transported and deposited during the last Ice Age. There are four major mechanisms of transport:
+
+### Sorting Mechanisms (sort materials by particle size)
+- Water: Alluvium (fast-moving water from modern rivers and streams; dominated by sands and coarse fragments)
+- Water: Glaciolacustrine (slow-moving water in large glacial lakes; dominated by clays)
+- Water: Outwash (fast-moving water from glacial meltwater streams; dominated by sands and coarse fragments)
+- Wind: Loess (deposited by wind; dominated by silts)
+
+### Non-Sorting Mechanisms (do not typically sort by particle size)
+- Glacial Ice: Glacial Till (glacial ice grinds and picks up materials of all sizes; generally unsorted, loamy textures)
+- Gravity: Colluvium (material transported downhill by gravity)
+
+Note: Some parent materials, such as volcanic ash and marine sediments, are not discussed in this lecture as they are less common in Minnesota.
+
+## Glacial History and Glacial Till
+Minnesota has experienced multiple glacial cycles during the Pleistocene, with the most recent glaciation ending approximately 10,000 years ago. Continental ice sheets advanced in lobes, each named after the area it ended or advanced through (e.g., Des Moines Lobe, Superior Lobe).
+
+The Superior Lobe advanced over iron-rich igneous rocks in the northeast, while the Des Moines Lobe advanced over carbonate-rich shales and limestones in the northwest. This difference in provenance resulted in distinct glacial till properties:
+
+- Superior Lobe till: reddish (7.5YR), sandy loams, sandy clay loams, non-calcareous
+- Des Moines Lobe till: yellowish (2.5Y), loams, clay loams, silty clay loams, calcareous
+
+## Outwash and Glaciolacustrine Sediments
+Outwash plains formed when braided rivers and streams of glacial meltwater deposited sands and gravels. The Anoka sandplain north of the Twin Cities is an example of a large outwash plain.
+
+Glaciolacustrine sediments were deposited in former glacial lakes that existed for hundreds to thousands of years before draining. Glacial Lake Agassiz, which covered much of northwestern Minnesota, Manitoba, and North Dakota, was the largest of these lakes. When these lakes drained, the exposed lacustrine sediments formed flat landscapes with clayey soil textures.
+
+## Loess
+Loess is a wind-transported parent material dominated by silts. During the last glacial maximum, silts were picked up from large river valleys and deposited as loess in the southeast and southwest parts of Minnesota that were not covered in ice.
+
+## Colluvium
+Colluvium is a gravity-transported parent material formed by the downslope movement of materials on hillslopes. It is typically unsorted and can have a wide range of textures depending on the source material.
+
+## Organic Parent Materials
+Soils that have formed from the accumulation of organic materials, such as peat deposits in northern Minnesota peatlands, are considered to have organic parent materials. These soils, called Histosols, have properties dominated by the characteristics of organic matter.
+
+## Minnesota Landscapes and Parent Materials
+The distribution of parent materials in Minnesota is closely tied to the state's glacial history and resulting landscapes:
+
+- Northeastern Minnesota: Predominantly Superior Lobe glacial till
+- Central and southern Minnesota: Des Moines Lobe glacial till
+- Northwestern Minnesota: Glacial Lake Agassiz lacustrine sediments (Red River Valley)
+- Scattered throughout the state: Outwash plains and organic parent materials (peatlands)
+- Southeastern Minnesota (Driftless Area): Residual soils with loess cap, older glacial till, and more developed drainage patterns due to the absence of recent glaciation
+
+## Conclusion
+Understanding the distribution and properties of soil parent materials in Minnesota is essential for predicting soil characteristics and interpreting the state's diverse landscapes. The complex glacial history of Minnesota has resulted in a mosaic of parent materials, each with its unique influence on soil formation and landscape development. By recognizing the relationships between transport mechanisms, particle size sorting, and soil texture, soil scientists can better assess the potential and limitations of soils for various applications.

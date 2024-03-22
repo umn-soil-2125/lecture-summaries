@@ -1,4 +1,4 @@
-# Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications
+# Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications {.unnumbered}
 
 ## Introduction
 Redoximorphic features are color patterns observed in soils that have undergone oxidation-reduction (redox) reactions, primarily involving iron (Fe). These features provide valuable insights into the soil's hydrological conditions, such as saturation, flooding, or ponding, and have significant implications for various applications, including septic system design and wetland delineation. This lecture summary will delve into the biochemical processes responsible for the formation of redoximorphic features and their practical significance in soil science.

@@ -1,0 +1,44 @@
+# Lecture 3.1: Soil Genesis and Soil Forming Factors: Theoretical Foundation and Development of Modern Theories of Soil Formation {.unnumbered}
+
+## Introduction
+Understanding how soils form and the factors that influence their properties is crucial for predicting soil characteristics, making accurate soil maps, and informing land management decisions. This lecture explores the development of modern theories of soil formation, with a focus on the contributions of Russian soil scientists in the late 19th century and the subsequent refinement of these ideas by American soil scientists in the early 20th century.
+
+## Processes of Soil Formation
+Soil formation involves the differentiation of soil materials from their geologic parent materials through various processes, including additions, losses, transformations, and translocations.
+
+### Additions
+Additions to the soil can include organic matter (plant and animal residues), dissolved ions and nutrients (from rainwater and dust deposition), and minerals (from material deposition).
+
+### Losses
+Losses from the soil can occur through erosion (removal from the surface), volatilization (loss to the atmosphere as a gas), and leaching (downward movement with water). Examples include the loss of water, organic matter, nutrients, and mineral particles.
+
+### Transformations
+Transformations involve changes in the form of soil components through biological or chemical processes. Examples include the weathering of primary and secondary minerals, the conversion of plant molecules to humus, and oxidation/reduction reactions.
+
+### Translocations
+Translocations involve the movement or changing of physical locations within the soil profile. This can occur through illuviation/eluviation (movement by water) or pedoturbation/bioturbation (mixing by organisms or physical processes).
+
+## Soil Horizons and the Solum
+Soil formation processes tend to create layers or horizons within the soil profile. The main master horizons are O (organic), A (surface), E (eluvial), B (subsoil), C (parent material), and R (bedrock). The solum is the part of the soil profile that has undergone soil-forming processes and includes the O, A, E, and B horizons.
+
+## Early Theories of Soil Formation
+Until the mid-19th century, soils were primarily seen as broken-down rocks and were thought to be dependent on regional geology alone. However, the work of Russian soil scientists, particularly V.V. Dokuchaev, revolutionized the understanding of soil formation.
+
+## Russian Agricultural Lands, Droughts, and Famines
+The central grasslands of Russia, known as the "Eurasian Steppe" or the "Russian Chernozem," serve as a critical agricultural region but are susceptible to periodic droughts and crop failures. In response to severe droughts and famines in the late 19th century, the Russian government commissioned V.V. Dokuchaev, a geologist, to study the soils in the region and determine the causes of these periodic crop failures.
+
+## V.V. Dokuchaev and the Development of Soil Formation Theory
+Dokuchaev traveled extensively throughout the Russian Chernozem region, observing clear patterns in soil properties, particularly the amount of organic matter, in relation to climate. He determined that soil organic matter was a critical property for the resilience of these soils to drought and that it varied predictably across the region depending on the climate.
+
+Dokuchaev's work culminated in his 1883 book, "The Russian Chernozem," in which he presented a comprehensive theory of soil formation based on the factors of climate, vegetation, and parent material. He later expanded this model to include topography and time as additional factors.
+
+## The Influence of Dokuchaev on American Soil Science
+Dokuchaev's work was translated into English by C.F. Marbut, an American scientist, in the 1930s. Hans Jenny, a Swiss-born U.S. soil scientist at UC Berkeley, further refined and clarified Dokuchaev's ideas in his 1941 book, "Factors of Soil Formation: A System of Quantitative Pedology." Jenny's work solidified the five major soil-forming factors: climate, organisms, relief (topography), parent material, and time, often remembered by the acronym CLORPT.
+
+## The Factorial Model of Soil Formation
+The factorial model of soil formation, based on the five soil-forming factors, has been widely used as a conceptual model for understanding and predicting the distribution of soils and their properties. This model has been instrumental in the development of soil maps and land management strategies.
+
+However, it is now recognized that the five canonical factors of soil formation are incomplete, and there have been arguments for the inclusion of additional factors, such as fire and human influence. Additionally, soils are now understood to undergo continuous formation through the action of physical, biological, and chemical processes and can change in response to long-term environmental changes.
+
+## Conclusion
+The development of modern theories of soil formation, primarily driven by the work of Russian soil scientists in the late 19th century and refined by American soil scientists in the early 20th century, has provided a framework for understanding how soils form and the factors that influence their properties. Despite its limitations, the factorial model of soil formation remains a valuable tool for predicting soil characteristics and informing land management decisions. As our understanding of soil formation continues to evolve, this foundational knowledge will serve as a basis for further advancements in the field of soil science.

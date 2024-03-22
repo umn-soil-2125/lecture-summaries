@@ -4,9 +4,9 @@
     "href": "index.html",
     "title": "Basic Soil Science (SOIL 2125) Lecture Summaries - Spring 2024",
     "section": "",
-    "text": "1 SOIL 2125 Lecture Summaries",
+    "text": "SOIL 2125 Lecture Summaries\nThis is a repository for SOIL 2125 lecture summary documents, synthesized from lecture slides and audio transcripts of live lectures.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>SOIL 2125 Lecture Summaries</span>"
+      "SOIL 2125 Lecture Summaries"
     ]
   },
   {
@@ -22,100 +22,309 @@
   {
     "objectID": "lecture-2-8.html",
     "href": "lecture-2-8.html",
-    "title": "2  Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications",
+    "title": "Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications",
     "section": "",
-    "text": "2.1 Introduction\nRedoximorphic features are color patterns observed in soils that have undergone oxidation-reduction (redox) reactions, primarily involving iron (Fe). These features provide valuable insights into the soil’s hydrological conditions, such as saturation, flooding, or ponding, and have significant implications for various applications, including septic system design and wetland delineation. This lecture summary will delve into the biochemical processes responsible for the formation of redoximorphic features and their practical significance in soil science.",
+    "text": "Introduction\nRedoximorphic features are color patterns observed in soils that have undergone oxidation-reduction (redox) reactions, primarily involving iron (Fe). These features provide valuable insights into the soil’s hydrological conditions, such as saturation, flooding, or ponding, and have significant implications for various applications, including septic system design and wetland delineation. This lecture summary will delve into the biochemical processes responsible for the formation of redoximorphic features and their practical significance in soil science.",
     "crumbs": [
       "Unit 2: Soil Processes",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications</span>"
+      "Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications"
     ]
   },
   {
     "objectID": "lecture-2-8.html#redox-reactions",
     "href": "lecture-2-8.html#redox-reactions",
-    "title": "2  Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications",
-    "section": "2.2 Redox Reactions",
-    "text": "2.2 Redox Reactions\nRedox reactions involve the transfer of electrons between two chemical species. Oxidation is the loss of electrons (OIL: Oxidation Is Loss), while reduction is the gain of electrons (RIG: Reduction Is Gain). Aerobic respiration, a crucial process for many organisms including soil microbes, is a redox reaction where organic matter (reduced carbon compounds) is oxidized to CO2, and oxygen (O2) is reduced to water (H2O). The chemical energy released during this process is used to synthesize ATP.",
+    "title": "Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications",
+    "section": "Redox Reactions",
+    "text": "Redox Reactions\nRedox reactions involve the transfer of electrons between two chemical species. Oxidation is the loss of electrons (OIL: Oxidation Is Loss), while reduction is the gain of electrons (RIG: Reduction Is Gain). Aerobic respiration, a crucial process for many organisms including soil microbes, is a redox reaction where organic matter (reduced carbon compounds) is oxidized to CO2, and oxygen (O2) is reduced to water (H2O). The chemical energy released during this process is used to synthesize ATP.",
     "crumbs": [
       "Unit 2: Soil Processes",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications</span>"
+      "Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications"
     ]
   },
   {
     "objectID": "lecture-2-8.html#electron-acceptors-and-anaerobic-conditions",
     "href": "lecture-2-8.html#electron-acceptors-and-anaerobic-conditions",
-    "title": "2  Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications",
-    "section": "2.3 Electron Acceptors and Anaerobic Conditions",
-    "text": "2.3 Electron Acceptors and Anaerobic Conditions\nIn aerobic soils, oxygen serves as the primary electron acceptor due to its high electronegativity and ability to accept electrons from various atoms and molecules. However, in saturated soils, oxygen becomes depleted, leading to anaerobic conditions. Under such circumstances, facultative anaerobic microorganisms utilize alternative electron acceptors in a sequence determined by the energy yield: nitrate (NO3-), manganese (Mn4+), iron (Fe3+), sulfate (SO42-), and carbon dioxide (CO2).",
+    "title": "Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications",
+    "section": "Electron Acceptors and Anaerobic Conditions",
+    "text": "Electron Acceptors and Anaerobic Conditions\nIn aerobic soils, oxygen serves as the primary electron acceptor due to its high electronegativity and ability to accept electrons from various atoms and molecules. However, in saturated soils, oxygen becomes depleted, leading to anaerobic conditions. Under such circumstances, facultative anaerobic microorganisms utilize alternative electron acceptors in a sequence determined by the energy yield: nitrate (NO3-), manganese (Mn4+), iron (Fe3+), sulfate (SO42-), and carbon dioxide (CO2).",
     "crumbs": [
       "Unit 2: Soil Processes",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications</span>"
+      "Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications"
     ]
   },
   {
     "objectID": "lecture-2-8.html#iron-reduction-and-soil-color-changes",
     "href": "lecture-2-8.html#iron-reduction-and-soil-color-changes",
-    "title": "2  Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications",
-    "section": "2.4 Iron Reduction and Soil Color Changes",
-    "text": "2.4 Iron Reduction and Soil Color Changes\nIron reduction is a critical process in the formation of redoximorphic features. Iron exists in two oxidation states: oxidized (Fe3+) and reduced (Fe2+). In aerobic soils, Fe3+ forms stable iron oxides, contributing to the soil’s reddish, yellowish, or brownish colors. However, under anaerobic conditions, certain microbes utilize Fe3+ as an electron acceptor, reducing it to Fe2+. This process requires the presence of organic matter as an energy source and temperatures above 5°C for optimal microbial activity.\nAs Fe3+ is reduced to Fe2+, the iron oxide coatings on soil mineral grains dissolve, revealing the underlying grayish colors of the mineral grains (e.g., quartz, kaolinite). This color change is a key indicator of iron reduction and prolonged soil saturation.",
+    "title": "Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications",
+    "section": "Iron Reduction and Soil Color Changes",
+    "text": "Iron Reduction and Soil Color Changes\nIron reduction is a critical process in the formation of redoximorphic features. Iron exists in two oxidation states: oxidized (Fe3+) and reduced (Fe2+). In aerobic soils, Fe3+ forms stable iron oxides, contributing to the soil’s reddish, yellowish, or brownish colors. However, under anaerobic conditions, certain microbes utilize Fe3+ as an electron acceptor, reducing it to Fe2+. This process requires the presence of organic matter as an energy source and temperatures above 5°C for optimal microbial activity.\nAs Fe3+ is reduced to Fe2+, the iron oxide coatings on soil mineral grains dissolve, revealing the underlying grayish colors of the mineral grains (e.g., quartz, kaolinite). This color change is a key indicator of iron reduction and prolonged soil saturation.",
     "crumbs": [
       "Unit 2: Soil Processes",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications</span>"
+      "Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications"
     ]
   },
   {
     "objectID": "lecture-2-8.html#iron-oxidation-and-redoximorphic-features",
     "href": "lecture-2-8.html#iron-oxidation-and-redoximorphic-features",
-    "title": "2  Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications",
-    "section": "2.5 Iron Oxidation and Redoximorphic Features",
-    "text": "2.5 Iron Oxidation and Redoximorphic Features\nWhen a reduced soil is re-exposed to oxygen, Fe2+ is abiotically oxidized back to Fe3+, forming new iron oxide coatings. However, this oxidation process occurs in a non-uniform manner, resulting in the formation of redoximorphic features:\n\nRedox concentrations: Localized areas with high iron content, appearing as reddish, brownish, or yellowish patches.\nRedox depletions: Areas depleted in iron, characterized by grayish or whitish colors.\n\nThese features are indicative of fluctuating water tables and alternating periods of soil saturation and aeration.",
+    "title": "Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications",
+    "section": "Iron Oxidation and Redoximorphic Features",
+    "text": "Iron Oxidation and Redoximorphic Features\nWhen a reduced soil is re-exposed to oxygen, Fe2+ is abiotically oxidized back to Fe3+, forming new iron oxide coatings. However, this oxidation process occurs in a non-uniform manner, resulting in the formation of redoximorphic features:\n\nRedox concentrations: Localized areas with high iron content, appearing as reddish, brownish, or yellowish patches.\nRedox depletions: Areas depleted in iron, characterized by grayish or whitish colors.\n\nThese features are indicative of fluctuating water tables and alternating periods of soil saturation and aeration.",
     "crumbs": [
       "Unit 2: Soil Processes",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications</span>"
+      "Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications"
     ]
   },
   {
     "objectID": "lecture-2-8.html#hydric-soils-and-wetland-delineation",
     "href": "lecture-2-8.html#hydric-soils-and-wetland-delineation",
-    "title": "2  Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications",
-    "section": "2.6 Hydric Soils and Wetland Delineation",
-    "text": "2.6 Hydric Soils and Wetland Delineation\nRedoximorphic features are essential for identifying hydric soils, which are soils that have formed under conditions of saturation, flooding, or ponding long enough to develop anaerobic conditions in the upper part. Hydric soils are a key indicator of wetland environments and are used in wetland delineation. The presence of specific redoximorphic features, such as depleted soil matrices (indicating groundwater movement) or gleyed soil matrices (suggesting stagnant water), provides valuable information about the soil’s hydrological regime.",
+    "title": "Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications",
+    "section": "Hydric Soils and Wetland Delineation",
+    "text": "Hydric Soils and Wetland Delineation\nRedoximorphic features are essential for identifying hydric soils, which are soils that have formed under conditions of saturation, flooding, or ponding long enough to develop anaerobic conditions in the upper part. Hydric soils are a key indicator of wetland environments and are used in wetland delineation. The presence of specific redoximorphic features, such as depleted soil matrices (indicating groundwater movement) or gleyed soil matrices (suggesting stagnant water), provides valuable information about the soil’s hydrological regime.",
     "crumbs": [
       "Unit 2: Soil Processes",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications</span>"
+      "Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications"
     ]
   },
   {
     "objectID": "lecture-2-8.html#septic-system-design",
     "href": "lecture-2-8.html#septic-system-design",
-    "title": "2  Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications",
-    "section": "2.7 Septic System Design",
-    "text": "2.7 Septic System Design\nUnderstanding redoximorphic features is crucial for proper septic system design. Septic systems rely on the soil’s ability to treat wastewater through microbial processes. Soils with high water tables or shallow bedrock are unsuitable for conventional in-ground septic systems, as they may result in the surfacing of untreated wastewater. Soil scientists assess the presence and depth of redoximorphic features to determine the suitability of a site for septic system installation. In cases where conventional systems are not feasible, alternative designs, such as mound systems, may be recommended.",
+    "title": "Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications",
+    "section": "Septic System Design",
+    "text": "Septic System Design\nUnderstanding redoximorphic features is crucial for proper septic system design. Septic systems rely on the soil’s ability to treat wastewater through microbial processes. Soils with high water tables or shallow bedrock are unsuitable for conventional in-ground septic systems, as they may result in the surfacing of untreated wastewater. Soil scientists assess the presence and depth of redoximorphic features to determine the suitability of a site for septic system installation. In cases where conventional systems are not feasible, alternative designs, such as mound systems, may be recommended.",
     "crumbs": [
       "Unit 2: Soil Processes",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications</span>"
+      "Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications"
     ]
   },
   {
     "objectID": "lecture-2-8.html#other-implications",
     "href": "lecture-2-8.html#other-implications",
-    "title": "2  Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications",
-    "section": "2.8 Other Implications",
-    "text": "2.8 Other Implications\nRedoximorphic features have implications beyond wetland delineation and septic system design. They can provide insights into soil drainage classes, which are important for agricultural management practices, such as irrigation and crop selection. Additionally, understanding redox processes in soils is crucial for predicting the fate and transport of nutrients and contaminants, as well as for assessing soil health and fertility.",
+    "title": "Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications",
+    "section": "Other Implications",
+    "text": "Other Implications\nRedoximorphic features have implications beyond wetland delineation and septic system design. They can provide insights into soil drainage classes, which are important for agricultural management practices, such as irrigation and crop selection. Additionally, understanding redox processes in soils is crucial for predicting the fate and transport of nutrients and contaminants, as well as for assessing soil health and fertility.",
     "crumbs": [
       "Unit 2: Soil Processes",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications</span>"
+      "Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications"
     ]
   },
   {
     "objectID": "lecture-2-8.html#conclusion",
     "href": "lecture-2-8.html#conclusion",
-    "title": "2  Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications",
-    "section": "2.9 Conclusion",
-    "text": "2.9 Conclusion\nRedoximorphic features in soils are the result of complex biochemical processes involving redox reactions, primarily focused on iron transformations. These features serve as indicators of soil hydrological conditions and have significant practical applications in various fields, including wetland delineation, septic system design, and agricultural management. By understanding the mechanisms behind the formation of redoximorphic features and their implications, soil scientists can make informed decisions and recommendations for sustainable land use and management practices.",
+    "title": "Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications",
+    "section": "Conclusion",
+    "text": "Conclusion\nRedoximorphic features in soils are the result of complex biochemical processes involving redox reactions, primarily focused on iron transformations. These features serve as indicators of soil hydrological conditions and have significant practical applications in various fields, including wetland delineation, septic system design, and agricultural management. By understanding the mechanisms behind the formation of redoximorphic features and their implications, soil scientists can make informed decisions and recommendations for sustainable land use and management practices.",
     "crumbs": [
       "Unit 2: Soil Processes",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications</span>"
+      "Lecture 2-8: Redoximorphic Features in Soils: Biochemical Processes and Implications"
+    ]
+  },
+  {
+    "objectID": "lecture-3-1.html",
+    "href": "lecture-3-1.html",
+    "title": "Lecture 3.1: Soil Genesis and Soil Forming Factors: Theoretical Foundation and Development of Modern Theories of Soil Formation",
+    "section": "",
+    "text": "Introduction\nUnderstanding how soils form and the factors that influence their properties is crucial for predicting soil characteristics, making accurate soil maps, and informing land management decisions. This lecture explores the development of modern theories of soil formation, with a focus on the contributions of Russian soil scientists in the late 19th century and the subsequent refinement of these ideas by American soil scientists in the early 20th century.",
+    "crumbs": [
+      "Unit 3: Soil Genesis",
+      "Lecture 3.1: Soil Genesis and Soil Forming Factors: Theoretical Foundation and Development of Modern Theories of Soil Formation"
+    ]
+  },
+  {
+    "objectID": "lecture-3-1.html#processes-of-soil-formation",
+    "href": "lecture-3-1.html#processes-of-soil-formation",
+    "title": "Lecture 3.1: Soil Genesis and Soil Forming Factors: Theoretical Foundation and Development of Modern Theories of Soil Formation",
+    "section": "Processes of Soil Formation",
+    "text": "Processes of Soil Formation\nSoil formation involves the differentiation of soil materials from their geologic parent materials through various processes, including additions, losses, transformations, and translocations.\n\nAdditions\nAdditions to the soil can include organic matter (plant and animal residues), dissolved ions and nutrients (from rainwater and dust deposition), and minerals (from material deposition).\n\n\nLosses\nLosses from the soil can occur through erosion (removal from the surface), volatilization (loss to the atmosphere as a gas), and leaching (downward movement with water). Examples include the loss of water, organic matter, nutrients, and mineral particles.\n\n\nTransformations\nTransformations involve changes in the form of soil components through biological or chemical processes. Examples include the weathering of primary and secondary minerals, the conversion of plant molecules to humus, and oxidation/reduction reactions.\n\n\nTranslocations\nTranslocations involve the movement or changing of physical locations within the soil profile. This can occur through illuviation/eluviation (movement by water) or pedoturbation/bioturbation (mixing by organisms or physical processes).",
+    "crumbs": [
+      "Unit 3: Soil Genesis",
+      "Lecture 3.1: Soil Genesis and Soil Forming Factors: Theoretical Foundation and Development of Modern Theories of Soil Formation"
+    ]
+  },
+  {
+    "objectID": "lecture-3-1.html#soil-horizons-and-the-solum",
+    "href": "lecture-3-1.html#soil-horizons-and-the-solum",
+    "title": "Lecture 3.1: Soil Genesis and Soil Forming Factors: Theoretical Foundation and Development of Modern Theories of Soil Formation",
+    "section": "Soil Horizons and the Solum",
+    "text": "Soil Horizons and the Solum\nSoil formation processes tend to create layers or horizons within the soil profile. The main master horizons are O (organic), A (surface), E (eluvial), B (subsoil), C (parent material), and R (bedrock). The solum is the part of the soil profile that has undergone soil-forming processes and includes the O, A, E, and B horizons.",
+    "crumbs": [
+      "Unit 3: Soil Genesis",
+      "Lecture 3.1: Soil Genesis and Soil Forming Factors: Theoretical Foundation and Development of Modern Theories of Soil Formation"
+    ]
+  },
+  {
+    "objectID": "lecture-3-1.html#early-theories-of-soil-formation",
+    "href": "lecture-3-1.html#early-theories-of-soil-formation",
+    "title": "Lecture 3.1: Soil Genesis and Soil Forming Factors: Theoretical Foundation and Development of Modern Theories of Soil Formation",
+    "section": "Early Theories of Soil Formation",
+    "text": "Early Theories of Soil Formation\nUntil the mid-19th century, soils were primarily seen as broken-down rocks and were thought to be dependent on regional geology alone. However, the work of Russian soil scientists, particularly V.V. Dokuchaev, revolutionized the understanding of soil formation.",
+    "crumbs": [
+      "Unit 3: Soil Genesis",
+      "Lecture 3.1: Soil Genesis and Soil Forming Factors: Theoretical Foundation and Development of Modern Theories of Soil Formation"
+    ]
+  },
+  {
+    "objectID": "lecture-3-1.html#russian-agricultural-lands-droughts-and-famines",
+    "href": "lecture-3-1.html#russian-agricultural-lands-droughts-and-famines",
+    "title": "Lecture 3.1: Soil Genesis and Soil Forming Factors: Theoretical Foundation and Development of Modern Theories of Soil Formation",
+    "section": "Russian Agricultural Lands, Droughts, and Famines",
+    "text": "Russian Agricultural Lands, Droughts, and Famines\nThe central grasslands of Russia, known as the “Eurasian Steppe” or the “Russian Chernozem,” serve as a critical agricultural region but are susceptible to periodic droughts and crop failures. In response to severe droughts and famines in the late 19th century, the Russian government commissioned V.V. Dokuchaev, a geologist, to study the soils in the region and determine the causes of these periodic crop failures.",
+    "crumbs": [
+      "Unit 3: Soil Genesis",
+      "Lecture 3.1: Soil Genesis and Soil Forming Factors: Theoretical Foundation and Development of Modern Theories of Soil Formation"
+    ]
+  },
+  {
+    "objectID": "lecture-3-1.html#v.v.-dokuchaev-and-the-development-of-soil-formation-theory",
+    "href": "lecture-3-1.html#v.v.-dokuchaev-and-the-development-of-soil-formation-theory",
+    "title": "Lecture 3.1: Soil Genesis and Soil Forming Factors: Theoretical Foundation and Development of Modern Theories of Soil Formation",
+    "section": "V.V. Dokuchaev and the Development of Soil Formation Theory",
+    "text": "V.V. Dokuchaev and the Development of Soil Formation Theory\nDokuchaev traveled extensively throughout the Russian Chernozem region, observing clear patterns in soil properties, particularly the amount of organic matter, in relation to climate. He determined that soil organic matter was a critical property for the resilience of these soils to drought and that it varied predictably across the region depending on the climate.\nDokuchaev’s work culminated in his 1883 book, “The Russian Chernozem,” in which he presented a comprehensive theory of soil formation based on the factors of climate, vegetation, and parent material. He later expanded this model to include topography and time as additional factors.",
+    "crumbs": [
+      "Unit 3: Soil Genesis",
+      "Lecture 3.1: Soil Genesis and Soil Forming Factors: Theoretical Foundation and Development of Modern Theories of Soil Formation"
+    ]
+  },
+  {
+    "objectID": "lecture-3-1.html#the-influence-of-dokuchaev-on-american-soil-science",
+    "href": "lecture-3-1.html#the-influence-of-dokuchaev-on-american-soil-science",
+    "title": "Lecture 3.1: Soil Genesis and Soil Forming Factors: Theoretical Foundation and Development of Modern Theories of Soil Formation",
+    "section": "The Influence of Dokuchaev on American Soil Science",
+    "text": "The Influence of Dokuchaev on American Soil Science\nDokuchaev’s work was translated into English by C.F. Marbut, an American scientist, in the 1930s. Hans Jenny, a Swiss-born U.S. soil scientist at UC Berkeley, further refined and clarified Dokuchaev’s ideas in his 1941 book, “Factors of Soil Formation: A System of Quantitative Pedology.” Jenny’s work solidified the five major soil-forming factors: climate, organisms, relief (topography), parent material, and time, often remembered by the acronym CLORPT.",
+    "crumbs": [
+      "Unit 3: Soil Genesis",
+      "Lecture 3.1: Soil Genesis and Soil Forming Factors: Theoretical Foundation and Development of Modern Theories of Soil Formation"
+    ]
+  },
+  {
+    "objectID": "lecture-3-1.html#the-factorial-model-of-soil-formation",
+    "href": "lecture-3-1.html#the-factorial-model-of-soil-formation",
+    "title": "Lecture 3.1: Soil Genesis and Soil Forming Factors: Theoretical Foundation and Development of Modern Theories of Soil Formation",
+    "section": "The Factorial Model of Soil Formation",
+    "text": "The Factorial Model of Soil Formation\nThe factorial model of soil formation, based on the five soil-forming factors, has been widely used as a conceptual model for understanding and predicting the distribution of soils and their properties. This model has been instrumental in the development of soil maps and land management strategies.\nHowever, it is now recognized that the five canonical factors of soil formation are incomplete, and there have been arguments for the inclusion of additional factors, such as fire and human influence. Additionally, soils are now understood to undergo continuous formation through the action of physical, biological, and chemical processes and can change in response to long-term environmental changes.",
+    "crumbs": [
+      "Unit 3: Soil Genesis",
+      "Lecture 3.1: Soil Genesis and Soil Forming Factors: Theoretical Foundation and Development of Modern Theories of Soil Formation"
+    ]
+  },
+  {
+    "objectID": "lecture-3-1.html#conclusion",
+    "href": "lecture-3-1.html#conclusion",
+    "title": "Lecture 3.1: Soil Genesis and Soil Forming Factors: Theoretical Foundation and Development of Modern Theories of Soil Formation",
+    "section": "Conclusion",
+    "text": "Conclusion\nThe development of modern theories of soil formation, primarily driven by the work of Russian soil scientists in the late 19th century and refined by American soil scientists in the early 20th century, has provided a framework for understanding how soils form and the factors that influence their properties. Despite its limitations, the factorial model of soil formation remains a valuable tool for predicting soil characteristics and informing land management decisions. As our understanding of soil formation continues to evolve, this foundational knowledge will serve as a basis for further advancements in the field of soil science.",
+    "crumbs": [
+      "Unit 3: Soil Genesis",
+      "Lecture 3.1: Soil Genesis and Soil Forming Factors: Theoretical Foundation and Development of Modern Theories of Soil Formation"
+    ]
+  },
+  {
+    "objectID": "lecture-3-2.html",
+    "href": "lecture-3-2.html",
+    "title": "Lecture 3-2: Soil Parent Materials: Formation, Distribution, and Implications for Minnesota Landscapes",
+    "section": "",
+    "text": "Introduction\nSoil parent materials play a crucial role in determining soil properties and are one of the five major factors of soil formation, along with climate, biota, relief, and time. This lecture focuses on the various types of soil parent materials found in Minnesota, their formation processes, and their impact on soil characteristics and landscapes.",
+    "crumbs": [
+      "Unit 3: Soil Genesis",
+      "Lecture 3-2: Soil Parent Materials: Formation, Distribution, and Implications for Minnesota Landscapes"
+    ]
+  },
+  {
+    "objectID": "lecture-3-2.html#residual-parent-materials",
+    "href": "lecture-3-2.html#residual-parent-materials",
+    "title": "Lecture 3-2: Soil Parent Materials: Formation, Distribution, and Implications for Minnesota Landscapes",
+    "section": "Residual Parent Materials",
+    "text": "Residual Parent Materials\nResidual parent materials, also known as residuum, are formed from the weathering of local bedrock in place. The properties of residuum depend on the characteristics of the source rock. For example, sandstone residuum tends to be sandy, while shale residuum is typically fine-textured. In Minnesota, residual parent materials are less common due to the extensive glacial history of the state.",
+    "crumbs": [
+      "Unit 3: Soil Genesis",
+      "Lecture 3-2: Soil Parent Materials: Formation, Distribution, and Implications for Minnesota Landscapes"
+    ]
+  },
+  {
+    "objectID": "lecture-3-2.html#transported-parent-materials",
+    "href": "lecture-3-2.html#transported-parent-materials",
+    "title": "Lecture 3-2: Soil Parent Materials: Formation, Distribution, and Implications for Minnesota Landscapes",
+    "section": "Transported Parent Materials",
+    "text": "Transported Parent Materials\nMost of Minnesota’s soil parent materials have been transported and deposited during the last Ice Age. There are four major mechanisms of transport:\n\nSorting Mechanisms (sort materials by particle size)\n\nWater: Alluvium (fast-moving water from modern rivers and streams; dominated by sands and coarse fragments)\nWater: Glaciolacustrine (slow-moving water in large glacial lakes; dominated by clays)\nWater: Outwash (fast-moving water from glacial meltwater streams; dominated by sands and coarse fragments)\nWind: Loess (deposited by wind; dominated by silts)\n\n\n\nNon-Sorting Mechanisms (do not typically sort by particle size)\n\nGlacial Ice: Glacial Till (glacial ice grinds and picks up materials of all sizes; generally unsorted, loamy textures)\nGravity: Colluvium (material transported downhill by gravity)\n\nNote: Some parent materials, such as volcanic ash and marine sediments, are not discussed in this lecture as they are less common in Minnesota.",
+    "crumbs": [
+      "Unit 3: Soil Genesis",
+      "Lecture 3-2: Soil Parent Materials: Formation, Distribution, and Implications for Minnesota Landscapes"
+    ]
+  },
+  {
+    "objectID": "lecture-3-2.html#glacial-history-and-glacial-till",
+    "href": "lecture-3-2.html#glacial-history-and-glacial-till",
+    "title": "Lecture 3-2: Soil Parent Materials: Formation, Distribution, and Implications for Minnesota Landscapes",
+    "section": "Glacial History and Glacial Till",
+    "text": "Glacial History and Glacial Till\nMinnesota has experienced multiple glacial cycles during the Pleistocene, with the most recent glaciation ending approximately 10,000 years ago. Continental ice sheets advanced in lobes, each named after the area it ended or advanced through (e.g., Des Moines Lobe, Superior Lobe).\nThe Superior Lobe advanced over iron-rich igneous rocks in the northeast, while the Des Moines Lobe advanced over carbonate-rich shales and limestones in the northwest. This difference in provenance resulted in distinct glacial till properties:\n\nSuperior Lobe till: reddish (7.5YR), sandy loams, sandy clay loams, non-calcareous\nDes Moines Lobe till: yellowish (2.5Y), loams, clay loams, silty clay loams, calcareous",
+    "crumbs": [
+      "Unit 3: Soil Genesis",
+      "Lecture 3-2: Soil Parent Materials: Formation, Distribution, and Implications for Minnesota Landscapes"
+    ]
+  },
+  {
+    "objectID": "lecture-3-2.html#outwash-and-glaciolacustrine-sediments",
+    "href": "lecture-3-2.html#outwash-and-glaciolacustrine-sediments",
+    "title": "Lecture 3-2: Soil Parent Materials: Formation, Distribution, and Implications for Minnesota Landscapes",
+    "section": "Outwash and Glaciolacustrine Sediments",
+    "text": "Outwash and Glaciolacustrine Sediments\nOutwash plains formed when braided rivers and streams of glacial meltwater deposited sands and gravels. The Anoka sandplain north of the Twin Cities is an example of a large outwash plain.\nGlaciolacustrine sediments were deposited in former glacial lakes that existed for hundreds to thousands of years before draining. Glacial Lake Agassiz, which covered much of northwestern Minnesota, Manitoba, and North Dakota, was the largest of these lakes. When these lakes drained, the exposed lacustrine sediments formed flat landscapes with clayey soil textures.",
+    "crumbs": [
+      "Unit 3: Soil Genesis",
+      "Lecture 3-2: Soil Parent Materials: Formation, Distribution, and Implications for Minnesota Landscapes"
+    ]
+  },
+  {
+    "objectID": "lecture-3-2.html#loess",
+    "href": "lecture-3-2.html#loess",
+    "title": "Lecture 3-2: Soil Parent Materials: Formation, Distribution, and Implications for Minnesota Landscapes",
+    "section": "Loess",
+    "text": "Loess\nLoess is a wind-transported parent material dominated by silts. During the last glacial maximum, silts were picked up from large river valleys and deposited as loess in the southeast and southwest parts of Minnesota that were not covered in ice.",
+    "crumbs": [
+      "Unit 3: Soil Genesis",
+      "Lecture 3-2: Soil Parent Materials: Formation, Distribution, and Implications for Minnesota Landscapes"
+    ]
+  },
+  {
+    "objectID": "lecture-3-2.html#colluvium",
+    "href": "lecture-3-2.html#colluvium",
+    "title": "Lecture 3-2: Soil Parent Materials: Formation, Distribution, and Implications for Minnesota Landscapes",
+    "section": "Colluvium",
+    "text": "Colluvium\nColluvium is a gravity-transported parent material formed by the downslope movement of materials on hillslopes. It is typically unsorted and can have a wide range of textures depending on the source material.",
+    "crumbs": [
+      "Unit 3: Soil Genesis",
+      "Lecture 3-2: Soil Parent Materials: Formation, Distribution, and Implications for Minnesota Landscapes"
+    ]
+  },
+  {
+    "objectID": "lecture-3-2.html#organic-parent-materials",
+    "href": "lecture-3-2.html#organic-parent-materials",
+    "title": "Lecture 3-2: Soil Parent Materials: Formation, Distribution, and Implications for Minnesota Landscapes",
+    "section": "Organic Parent Materials",
+    "text": "Organic Parent Materials\nSoils that have formed from the accumulation of organic materials, such as peat deposits in northern Minnesota peatlands, are considered to have organic parent materials. These soils, called Histosols, have properties dominated by the characteristics of organic matter.",
+    "crumbs": [
+      "Unit 3: Soil Genesis",
+      "Lecture 3-2: Soil Parent Materials: Formation, Distribution, and Implications for Minnesota Landscapes"
+    ]
+  },
+  {
+    "objectID": "lecture-3-2.html#minnesota-landscapes-and-parent-materials",
+    "href": "lecture-3-2.html#minnesota-landscapes-and-parent-materials",
+    "title": "Lecture 3-2: Soil Parent Materials: Formation, Distribution, and Implications for Minnesota Landscapes",
+    "section": "Minnesota Landscapes and Parent Materials",
+    "text": "Minnesota Landscapes and Parent Materials\nThe distribution of parent materials in Minnesota is closely tied to the state’s glacial history and resulting landscapes:\n\nNortheastern Minnesota: Predominantly Superior Lobe glacial till\nCentral and southern Minnesota: Des Moines Lobe glacial till\nNorthwestern Minnesota: Glacial Lake Agassiz lacustrine sediments (Red River Valley)\nScattered throughout the state: Outwash plains and organic parent materials (peatlands)\nSoutheastern Minnesota (Driftless Area): Residual soils with loess cap, older glacial till, and more developed drainage patterns due to the absence of recent glaciation",
+    "crumbs": [
+      "Unit 3: Soil Genesis",
+      "Lecture 3-2: Soil Parent Materials: Formation, Distribution, and Implications for Minnesota Landscapes"
+    ]
+  },
+  {
+    "objectID": "lecture-3-2.html#conclusion",
+    "href": "lecture-3-2.html#conclusion",
+    "title": "Lecture 3-2: Soil Parent Materials: Formation, Distribution, and Implications for Minnesota Landscapes",
+    "section": "Conclusion",
+    "text": "Conclusion\nUnderstanding the distribution and properties of soil parent materials in Minnesota is essential for predicting soil characteristics and interpreting the state’s diverse landscapes. The complex glacial history of Minnesota has resulted in a mosaic of parent materials, each with its unique influence on soil formation and landscape development. By recognizing the relationships between transport mechanisms, particle size sorting, and soil texture, soil scientists can better assess the potential and limitations of soils for various applications.",
+    "crumbs": [
+      "Unit 3: Soil Genesis",
+      "Lecture 3-2: Soil Parent Materials: Formation, Distribution, and Implications for Minnesota Landscapes"
     ]
   }
 ]
