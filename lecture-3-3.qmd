@@ -1,0 +1,59 @@
+# Lecture 3-3: Soil Forming Factors - Climate, Organisms, Relief, and Time {.unnumbered}
+
+## Introduction
+
+Soil formation is a complex process influenced by five main factors: parent material, climate, organisms, relief (topography), and time. While parent material sets the stage for soil development, the other four factors play crucial roles in determining the properties and characteristics of soils in different locations. This lecture focuses on the effects of climate, organisms, relief, and time on soil formation.
+
+## Climate
+
+Climate has major effects on soil formation through its influence on organic matter additions and losses, weathering, and translocation processes such as eluviation and illuviation.
+
+1. **Temperature**: Warmer temperatures generally lead to faster weathering rates, increased plant productivity, and higher rates of organic matter decomposition.
+
+2. **Precipitation**: Higher precipitation promotes greater plant biomass production, organic matter decomposition, weathering, and leaching of soluble materials through the soil profile.
+
+In Minnesota, there is a strong temperature gradient from south to north and a precipitation gradient from northwest to southeast. Soils in colder, wetter regions tend to have greater organic matter accumulation due to slower decomposition rates, while soils in warmer, wetter climates experience more intense weathering and clay formation.
+
+The leaching index, which represents the amount of water available to move through the soil profile, is determined by the difference between precipitation and evapotranspiration. In western Minnesota, evapotranspiration often exceeds precipitation, resulting in little to no excess water for leaching. In contrast, eastern Minnesota has more precipitation than evapotranspiration, leading to greater leaching of soluble materials like carbonates, clays, organic matter, and dissolved ions.
+
+The depth to carbonates in soil profiles across Minnesota is influenced by both climate and parent material. In the drier northwestern parts of the state, carbonates are found closer to the surface due to less leaching, while in the wetter eastern regions, carbonates are leached deeper into the soil profile or completely absent.
+
+## Organisms
+
+Organisms, particularly vegetation, have significant impacts on soil formation through their influence on organic matter inputs, nutrient cycling, and root systems.
+
+1. **Vegetation type**: The type of vegetation (e.g., grasslands vs. forests) affects the amount and distribution of organic matter inputs to the soil. Grasslands contribute more belowground biomass annually compared to forests, resulting in soils with thicker, more organic-rich A horizons.
+
+2. **Root systems**: Grasses have extensive fine root systems that efficiently cycle nutrients, leading to less acidic soils. In contrast, forests have a greater proportion of coarse, woody roots and are less effective at cycling nutrients, resulting in more acidic soils over time.
+
+Minnesota lies at the intersection of three major North American biomes: boreal forests, temperate broadleaf forests, and grasslands. The pre-European settlement vegetation of Minnesota included a "tension zone" where forests transitioned into prairies. It is important to note that the influence of vegetation on soil formation occurs over hundreds to thousands of years, and modern vegetation may not accurately reflect the long-term impacts on soil properties.
+
+Animals, such as earthworms, termites, and burrowing mammals, also contribute to soil formation through bioturbation, which involves the mixing and redistribution of soil materials.
+
+## Relief (Topography)
+
+Relief, or topography, influences soil formation through its effects on erosion, deposition, leaching, and water movement within the landscape.
+
+1. **Hillslope position**: The position of a soil on a hillslope, determined by slope steepness and curvature, affects erosion, deposition, wetness, and the infiltration/runoff ratio. Hillslopes can be divided into five main positions: summit, shoulder, backslope, footslope, and toeslope.
+
+2. **Erosion and deposition**: Upper hillslope positions (shoulder and backslope) experience high erosion rates and little to no deposition, while lower positions (footslope and toeslope) have little erosion and high deposition rates.
+
+3. **Drainage class**: The depth to the water table varies along a hillslope, with higher positions generally having deeper water tables and better-drained soils, while lower positions have shallower water tables and more poorly-drained soils.
+
+A catena is a sequence of soils along a hillslope that reflects the influence of relief on soil formation. In a typical catena, soils at lower hillslope positions have thicker A horizons, more organic matter, and more poorly-drained, reduced subsoils compared to soils at higher positions.
+
+Aspect, or the direction a slope faces, also affects soil formation by influencing the amount of solar radiation received. In the northern hemisphere, south-facing slopes receive more solar radiation than north-facing slopes, resulting in warmer, drier soils with less organic matter accumulation.
+
+## Time
+
+Time is a critical factor in soil formation, as the longer a soil is exposed to the influences of climate, organisms, and relief, the more developed its horizons and properties will be.
+
+1. **Horizon development**: Young soils have minimal horizon differentiation, while older soils display more well-developed and distinct horizons.
+
+2. **Weathering and leaching**: In humid environments, older soils tend to be more acidic, have lower nutrient content due to leaching, and have higher clay and iron oxide concentrations as a result of increased weathering over time.
+
+However, the progression of soil development varies depending on the specific combination of climate, organisms, relief, and parent material. In dry environments, for example, soils may not experience significant clay accumulation or pH reduction, and may instead accumulate salts.
+
+## Conclusion
+
+Understanding the complex interplay of climate, organisms, relief, and time in soil formation is essential for predicting and interpreting soil properties across diverse landscapes. By considering the influence of these factors, soil scientists can better understand the distribution and characteristics of soils at local, regional, and global scales. This knowledge is crucial for making informed decisions related to land management, agriculture, and environmental conservation.

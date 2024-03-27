@@ -1,0 +1,75 @@
+# Lecture 3-4: Soil Horizon Nomenclature and Profile Descriptions {.unnumbered}
+
+## Introduction
+
+Soil morphology and profile descriptions provide a wealth of information about soil properties in a condensed, standardized form. They allow for clear communication for mapping, research, and management purposes. In this lecture, we will cover the steps for writing soil profile descriptions, review master horizons and their suffixes, and learn about horizon nomenclature.
+
+## Writing Soil Profile Descriptions
+
+The process of writing a soil profile description involves several key steps:
+
+1.  Dig a soil pit or view an exposed the soil profile.
+2.  Clean off the face of the pit. Shear one side with a tiling spade to see inside the peds, and pick away the other side with a knife to expose the natural structure and ped exteriors.
+3.  Stand back and observe the profile, looking for obvious breaks in color, structure, texture, or other properties to identify master horizon boundaries.
+4.  Examine the profile closely, using your senses to identify further boundaries and subdivisions based on color, texture, structure, carbonates, coarse fragments, mottling, and redoximorphic features.
+5.  Conduct a detailed description of each horizon, including color (using a Munsell color book), texture (by feel), structure, carbonates (tested with HCl), redoximorphic features, and coarse fragment content (visual estimate).
+6.  Record the profile description using standardized abbreviations in your field notes.
+
+## Master Horizons
+
+There are six main master horizons, each designated by a capital letter:
+
+-   O: Organic materials
+-   A: Mineral soil material darkened by organic matter
+-   E: Eluviated horizon, characterized by loss of clay, iron oxides, or organic matter
+-   B: Subsoil horizon showing signs of pedogenic alteration (color or structure) or accumulation
+-   C: Mineral soil little affected by pedogenesis, often the parent material
+-   R: Consolidated bedrock
+
+## Master Horizon Suffixes
+
+Lower-case letter suffixes are used after the master horizon designation to provide more specific information about the materials and properties of each horizon. Some key suffixes include:
+
+O horizons (must have a suffix): - a: sapric (highly decomposed organic matter) - e: hemic (moderately decomposed) - i: fibric (slightly decomposed)
+
+A horizons (optional suffixes): - p: plowed, showing evidence of mixing and alteration by tillage - b: buried horizon
+
+E horizons (generally no suffixes)
+
+B horizons (always require a suffix unless part of a transitional horizon): - g: gleyed, characterized by gray colors due to reduced iron under low-oxygen conditions - k: accumulation of secondary carbonates (e.g., calcium carbonate) - t: accumulation of silicate clay - w: weakly developed, with minimal evidence of pedogenic alteration - THERE ARE MORE! See the lecture slides and handouts - these are just some common ones in Minnesota
+
+C horizons (optional suffixes): - g: gleyed - k: accumulation of secondary carbonates - r: weathered or soft bedrock (paralithic)
+
+R horizons (no suffixes)
+
+Rules for suffix order: - If used, "t" always comes first - If present, "g" always comes last - "t" and "w" cannot be used together
+
+## Transitional and Combination Horizons
+
+Transitional horizons are of two types:
+
+1.  Horizons that share properties of two master horizons, designated by combining the two master horizon letters (e.g., AB, AE, BC). The first letter indicates the dominant characteristics.
+
+2.  Horizons with two distinct parts, each with properties of different master horizons, designated with a slash (e.g., A/B, E/B).
+
+Combination horizons consist of many thin layers of two horizon types. They are used only for thin layers called "lamellae" in sandy soils and are designated as "B & E" or "E & B."
+
+## Vertical Subdivision
+
+When a horizon identified by a single letter or combination of letters needs to be subdivided based on differences in morphological properties, numbers are added to the end of the horizon designation (e.g., Bt1, Bt2).
+
+## Lithologic Discontinuities
+
+When one parent material overlies a distinctly different parent material, the horizons of the underlying material are designated with a number preceding the master horizon symbol (e.g., 2C). The first parent material does not receive a number.
+
+## Examples of Soil Profiles
+
+The lecture concludes by showcasing several examples of soil profiles from around the world, demonstrating the diversity of soil morphology and the application of horizon nomenclature.
+
+## Official Series Descriptions
+
+The lecture also introduces the concept of Official Series Descriptions (OSDs), which provide detailed information about the typical morphology and properties of specific soil series. These OSDs can be accessed through the USDA-NRCS website and are valuable resources for understanding the characteristics of soils in a given area.
+
+## Conclusion
+
+Understanding soil morphology and horizon nomenclature is essential for effectively describing, classifying, and communicating information about soils. By following the steps outlined in this lecture and applying the master horizon and suffix designations, soil scientists and other professionals can create standardized, informative soil profile descriptions. These descriptions serve as the foundation for many aspects of soil science, including mapping, research, and management decisions.
